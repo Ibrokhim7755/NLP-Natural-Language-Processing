@@ -5,9 +5,9 @@ Key components and tasks within NLP include:
 
 1. **Tokenization**: Breaking down a text into individual words, phrases, or sentences, known as tokens, to facilitate analysis.
 
-Part-of-speech tagging: Assigning grammatical categories (such as noun, verb, adjective) to each word in a sentence.
+2. **Part-of-speech tagging**: Assigning grammatical categories (such as noun, verb, adjective) to each word in a sentence.
 
-Named Entity Recognition (NER): Identifying and classifying entities (e.g., names of people, locations, organizations) within a text.
+3. **Named Entity Recognition (NER)**: Identifying and classifying entities (e.g., names of people, locations, organizations) within a text.
 
 Syntax and grammar analysis: Parsing the grammatical structure of sentences to understand the relationships between words.
 
