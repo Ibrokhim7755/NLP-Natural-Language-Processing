@@ -9,9 +9,9 @@ Key components and tasks within NLP include:
 
 3. **Named Entity Recognition (NER)**: Identifying and classifying entities (e.g., names of people, locations, organizations) within a text.
 
-Syntax and grammar analysis: Parsing the grammatical structure of sentences to understand the relationships between words.
+4. **Syntax and grammar analysis**: Parsing the grammatical structure of sentences to understand the relationships between words.
 
-Semantic analysis: Extracting the meaning of words and sentences to comprehend the overall context.
+5. **Semantic analysis**: Extracting the meaning of words and sentences to comprehend the overall context.
 
 Sentiment analysis: Determining the sentiment or emotional tone expressed in a piece of text (positive, negative, or neutral).
 
