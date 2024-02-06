@@ -17,7 +17,7 @@ Key components and tasks within NLP include:
 
 7. **Machine Translation**: Automatically translating text from one language to another.
 
-Text summarization: Generating concise summaries of longer texts.
+8. **Text summarization:** Generating concise summaries of longer texts.
 
 Question answering: Designing systems that can understand and respond to user queries in natural language.
 
