@@ -13,9 +13,9 @@ Key components and tasks within NLP include:
 
 5. **Semantic analysis**: Extracting the meaning of words and sentences to comprehend the overall context.
 
-Sentiment analysis: Determining the sentiment or emotional tone expressed in a piece of text (positive, negative, or neutral).
+6. **Sentiment analysis**: Determining the sentiment or emotional tone expressed in a piece of text (positive, negative, or neutral).
 
-Machine Translation: Automatically translating text from one language to another.
+7. **Machine Translation**: Automatically translating text from one language to another.
 
 Text summarization: Generating concise summaries of longer texts.
 
