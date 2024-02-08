@@ -19,7 +19,7 @@ Key components and tasks within NLP include:
 
 8. **Text summarization:** Generating concise summaries of longer texts.
 
-9. **Question answering:** Designing systems that can understand and respond to user queries in natural language.
+9. **Question answering:** Designing systems that can understand and respond to user queries in natural language. 
 
 10. **Chatbots and conversational agents**: Building programs that can engage in natural language conversations with users.
 
