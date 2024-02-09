@@ -34,3 +34,22 @@ NLP applications are diverse and can be found in various fields such as customer
 RNNs are a type of neural network architecture designed for sequence data, where the order of the data points is important. Traditional RNNs suffer from the vanishing gradient problem, which makes it challenging for them to capture long-term dependencies in sequential data. LSTM is a type of RNN that addresses this issue by introducing a more complex cell structure with memory gates.
 
 Here's a breakdown of the components in an LSTM cell:
+
+
+Sure, I'd be happy to explain LSTM (Long Short-Term Memory) models in the context of Recurrent Neural Networks (RNNs).
+
+RNNs are a type of neural network architecture designed for sequence data, where the order of the data points is important. Traditional RNNs suffer from the vanishing gradient problem, which makes it challenging for them to capture long-term dependencies in sequential data. LSTM is a type of RNN that addresses this issue by introducing a more complex cell structure with memory gates.
+
+Here's a breakdown of the components in an LSTM cell:
+
+Cell State (Ct): This is the memory of the cell. It runs straight down the entire chain, with only some minor linear interactions. It's like a conveyor belt that runs through the entire sequence, allowing information to be passed along without much alteration.
+
+Hidden State (ht): This is the output of the cell. It's a filtered version of the cell state, and it's used in making predictions and also as the input for the next time step.
+
+Input Gate (it): Determines how much of the new information should be added to the cell state.
+
+Forget Gate (ft): Decides how much of the existing cell state should be discarded or kept.
+
+Cell Gate (C~t): Creates a vector of new candidate values that could be added to the cell state.
+
+Output Gate (ot): Controls how much of the cell state should be exposed as the hidden state.
