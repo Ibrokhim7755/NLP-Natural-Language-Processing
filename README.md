@@ -26,3 +26,7 @@ Key components and tasks within NLP include:
 11. **Speech recognition and synthesis**: Converting spoken language into written text and vice versa.
 
 NLP applications are diverse and can be found in various fields such as customer service, healthcare, finance, education, and more. Advances in machine learning, deep learning, and neural networks have significantly improved the performance of NLP systems, allowing them to handle complex language tasks more effectively.
+
+
+
+#  LSTM (Long Short-Term Memory) models in the context of Recurrent Neural Networks (RNNs).
