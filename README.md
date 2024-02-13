@@ -31,7 +31,7 @@ NLP applications are diverse and can be found in various fields such as customer
 
 #  LSTM (Long Short-Term Memory) models in the context of Recurrent Neural Networks (RNNs).
 
-RNNs are a type of neural network architecture designed for sequence data, where the order of the data points is important. Traditional RNNs suffer from the vanishing gradient problem, which makes it challenging for them to capture long-term dependencies in sequential data. LSTM is a type of RNN that addresses this issue by introducing a more complex cell structure with memory gates.
+**RNNs** are a type of neural network architecture designed for sequence data, where the order of the data points is important. Traditional RNNs suffer from the vanishing gradient problem, which makes it challenging for them to capture long-term dependencies in sequential data. LSTM is a type of RNN that addresses this issue by introducing a more complex cell structure with memory gates.
 
 Here's a breakdown of the components in an LSTM cell:
 
