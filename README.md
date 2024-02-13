@@ -46,7 +46,7 @@ Here's a breakdown of the components in an LSTM cell:
 
 2. **Hidden State (ht):** This is the output of the cell. It's a filtered version of the cell state, and it's used in making predictions and also as the input for the next time step.
 
-Input Gate (it): Determines how much of the new information should be added to the cell state.
+3. **Input Gate (it):** Determines how much of the new information should be added to the cell state.
 
 Forget Gate (ft): Decides how much of the existing cell state should be discarded or kept.
 
