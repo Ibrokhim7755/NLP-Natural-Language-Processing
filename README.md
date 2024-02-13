@@ -50,6 +50,6 @@ Here's a breakdown of the components in an LSTM cell:
 
 4. **Forget Gate (ft):** Decides how much of the existing cell state should be discarded or kept.
 
-Cell Gate (C~t): Creates a vector of new candidate values that could be added to the cell state.
+5. **Cell Gate (C~t):** Creates a vector of new candidate values that could be added to the cell state.
 
 Output Gate (ot): Controls how much of the cell state should be exposed as the hidden state.
