@@ -52,4 +52,4 @@ Here's a breakdown of the components in an LSTM cell:
 
 5. **Cell Gate (C~t):** Creates a vector of new candidate values that could be added to the cell state.
 
-Output Gate (ot): Controls how much of the cell state should be exposed as the hidden state.
+6. **Output Gate (ot):** Controls how much of the cell state should be exposed as the hidden state.
