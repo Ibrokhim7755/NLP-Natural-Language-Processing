@@ -48,7 +48,7 @@ Here's a breakdown of the components in an LSTM cell:
 
 3. **Input Gate (it):** Determines how much of the new information should be added to the cell state.
 
-Forget Gate (ft): Decides how much of the existing cell state should be discarded or kept.
+4. **Forget Gate (ft):** Decides how much of the existing cell state should be discarded or kept.
 
 Cell Gate (C~t): Creates a vector of new candidate values that could be added to the cell state.
 
