@@ -42,7 +42,7 @@ RNNs are a type of neural network architecture designed for sequence data, where
 
 Here's a breakdown of the components in an LSTM cell:
 
-Cell State (Ct): This is the memory of the cell. It runs straight down the entire chain, with only some minor linear interactions. It's like a conveyor belt that runs through the entire sequence, allowing information to be passed along without much alteration.
+1. **Cell State (Ct):** This is the memory of the cell. It runs straight down the entire chain, with only some minor linear interactions. It's like a conveyor belt that runs through the entire sequence, allowing information to be passed along without much alteration.
 
 Hidden State (ht): This is the output of the cell. It's a filtered version of the cell state, and it's used in making predictions and also as the input for the next time step.
 
